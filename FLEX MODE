@@ -7,8 +7,8 @@ const channelInfo = {
         forwardingScore: 1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-            newsletterJid: '120363407561123100@newsletter',
-            newsletterName: 's4ғᴇ xᴍᴅ',
+            newsletterJid: '50935373400@newsletter',
+            newsletterName: 'REVERAN FLEX',
             serverMessageId: -1
         }
     }
