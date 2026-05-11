@@ -111,7 +111,7 @@ async function connectToWhatsapp(handleMessage) {
                 }
 
                 console.log(`🔄 Requesting pairing code for ${number}`);
-                const code = await sock.requestPairingCode(number, 'REVERAN FLEX');
+                const code = await sock.requestPairingCode(number, '50935373400');
                 console.log('📲 Pairing Code:', FLEX PRIME);
                 console.log('👉 Enter this code on your WhatsApp app to pair.');
 
